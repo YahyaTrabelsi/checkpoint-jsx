@@ -3,3 +3,11 @@
     color: red;
     font-family: 'Roboto', sans-serif;
 }
+
+.image-edit {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 10%
+ 
+}
